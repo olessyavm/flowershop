@@ -1,4 +1,4 @@
-20 - Создаём dishesSlice.js
+20 - Создаём flowerSlice.js
 
 import { createSlice } from '@reduxjs/toolkit';
 
